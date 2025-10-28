@@ -1,6 +1,6 @@
 # Getting Started with React UI Components using Next.js
 
-This application demonstrates the usage of the Syncfusion React Schedule component in Next.js.
+This application demonstrates the usage of the Syncfusion React Schedule component in a Next.js environment. It provides a responsive and feature-rich calendar interface that supports event scheduling, drag-and-drop, and customizable views.
 
 To know how to configure the Syncfusion React Schedule component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/schedule/nextjs-getting-started).
 
