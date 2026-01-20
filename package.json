@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@syncfusion/ej2-react-schedule": "^32.1.22",
+    "@syncfusion/ej2-react-schedule": "*",
     "@types/node": "25.0.6",
     "@types/react": "19.2.8",
     "@types/react-dom": "19.2.3",
