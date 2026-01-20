@@ -1,8 +1,4 @@
-<!--
-  howto.md
-  A step-by-step guide to integrate Syncfusion React Scheduler in nextjs
--->
-# How to integrate this repository ?
+# Getting Started with React UI Components using Next.js
 ## Description
 
 This repository showcases a demo Next.js application that demonstrates how to integrate the Syncfusion React Scheduler component in a fully client‑side environment. <br />
@@ -75,9 +71,7 @@ npm run dev
 <br />
 <br />
 
-
-# How to build this project from scratch?
-## Creating a Next.js Application Using Syncfusion® React Components
+# Creating a Next.js Application Using Syncfusion® React Components
 This section provides a step-by-step guide for setting up a Next.js application and integrating the Syncfusion® React Schedule component.
 
 <br />
@@ -325,4 +319,4 @@ npm run dev
 yarn run dev
 ```
 
-To learn more about the functionality of the Schedule component, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/schedule/getting-started#module-injection).
+To learn more about the functionality of the Next.js with Schedule component, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/schedule/nextjs-getting-started).
