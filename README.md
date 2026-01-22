@@ -1,10 +1,8 @@
-# Getting Started with React UI Components using Next.js
+# Getting Started with Syncfusion React Schedule Component using Next.js
 ## Description
 
 This repository showcases a demo Next.js application that demonstrates how to integrate the Syncfusion React Scheduler component in a fully client‑side environment. <br />
 The application provides an interactive and responsive scheduling interface, allowing users to create, update, view, and delete events directly within the Scheduler without relying on any backend services.
-
-<br />
 
 ## Project Structure
 ```
@@ -26,7 +24,6 @@ The application provides an interactive and responsive scheduling interface, all
 ├── README.md
 └── tsconfig.json
 ```
-<br />
 
 ## Setup
 #### <u>Cloning the repository</u>
@@ -52,15 +49,12 @@ The application provides an interactive and responsive scheduling interface, all
     npm install
     ```
 
-<br />
-
 ## Running the Application
 Run the application by using the following command
 
 ```bash
 npm run dev
 ```
-<br />
 
 ## Sample Outputs
 ![FrontEnd Nextjs Output](./SampleOutputs/Output.png)
@@ -71,15 +65,11 @@ npm run dev
 <br />
 <br />
 
-# Creating a Next.js Application Using Syncfusion® React Components
+# Creating a Next.js Application Using Syncfusion® React Schedule Component
 This section provides a step-by-step guide for setting up a Next.js application and integrating the Syncfusion® React Schedule component.
-
-<br />
 
 ## What is Next.js?
 Next.js is a React framework that makes it easy to build fast, SEO-friendly, and user-friendly web applications. It provides features such as server-side rendering, automatic code splitting, routing, and API routes, making it an excellent choice for building modern web applications.
-
-<br />
 
 ## Prerequisites
 Before getting started with the Next.js application, ensure the following prerequisites are met:
@@ -87,8 +77,6 @@ Before getting started with the Next.js application, ensure the following prereq
 - Node.js 18.17 or later.
 
 - The application is compatible with macOS, Windows, and Linux operating systems.
-
-<br />
 
 ## Create a Next.js application
 To create a new Next.js application, use one of the commands that are specific to either NPM or Yarn.
@@ -134,8 +122,6 @@ Using one of the above commands will lead you to set up additional configuration
     ```
     The application is ready to run with default settings. Now, let’s add Syncfusion® components to the project.
 
-<br />
-
 ## Install Syncfusion® React packages
 Syncfusion® React component packages are available at [npmjs.com](https://www.npmjs.com/search?q=ej2-react). To use Syncfusion® React components in the project, install the corresponding npm package.
 
@@ -149,8 +135,6 @@ npm install @syncfusion/ej2-react-schedule --save
 ```bash
 yarn add @syncfusion/ej2-react-schedule
 ```
-
-<br />
 
 ## Import Syncfusion® CSS styles
 Syncfusion® React components come with [built-in themes](https://ej2.syncfusion.com/react/documentation/appearance/theme), which are available in the installed packages. It’s easy to adapt the Syncfusion® React components to match the style of your application by referring to one of the built-in themes.
@@ -172,8 +156,6 @@ Import the Material theme into the `src/app/globals.css` file and removed the ex
 ```
 
 To know more about built-in themes and CSS reference for individual components, refer to the [themes](https://ej2.syncfusion.com/react/documentation/appearance/theme) section.
-
-<br />
 
 ## Add Syncfusion® React component
 Follow the below steps to add the React Schedule component to the Next.js project:
@@ -304,8 +286,7 @@ Follow the below steps to add the React Schedule component to the Next.js projec
     )
     }
     ```
-<br />
-
+    
 ## Run the application
 To run the application, use the following command:
 
